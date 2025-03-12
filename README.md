@@ -1,17 +1,12 @@
-# taipan-occurrence-analysis
-This repository contains a detailed report and exploratory data analysis of Taipan occurrences across various states of Australia. The analysis utilizes data sourced from the Atlas of Living Australia (ALA).
-
----
-title: "README - Coastal Taipan Sightings Analysis"
-author: "Aishwarya Anil Kumar, Arindom Baruah"
-output: github_document
----
-
 # 🐍 Coastal Taipan Sightings: An In-Depth Analysis
 
 ## 📌 Overview
 
 This report explores the spatial and temporal patterns of **Coastal Taipan** (*Oxyuranus scutellatus*) sightings in Australia. By leveraging statistical methods and visualization techniques, we examine **when, where, and why** these highly venomous snakes are observed, and whether their geographical distribution has changed over time. 
+
+#### taipan-occurrence-analysis
+
+This repository contains a detailed report and exploratory data analysis of Taipan occurrences across various states of Australia. The analysis utilizes data sourced from the Atlas of Living Australia (ALA).
 
 ## 🔍 Key Research Questions
 
